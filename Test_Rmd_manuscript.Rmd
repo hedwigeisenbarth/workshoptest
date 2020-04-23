@@ -5,8 +5,10 @@ output: pdf_document
 
 ---
 
-
+## header
 This is a test text.
 
-And I added this line.
+### smaller header
+And I added this line in **bolded** and *italic*.
+
 
